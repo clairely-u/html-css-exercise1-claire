@@ -1,0 +1,38 @@
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: indianred;
+    color: grey;
+}
+
+button {
+    margin:10px;
+    padding:10px 30px 10px 30px;
+    color:white;
+    background-color: turquoise;
+    border:turquoise;
+}
+
+
+.textboxes {
+    width:300;
+    margin:20px;
+    padding:10px;
+    border-color:lightgray;
+}
+
+#rememberCheckBox {
+    font-size: 75%;
+    margin-left:0px;
+    text-align: left;
+}
+
+
+.signin-box {
+    align-items: center;
+    padding: 30px;
+    text-align:center;
+    margin: 0 auto;
+    margin-top:200px;
+    background-color: lightgrey;
+    width: 400px;
+}
